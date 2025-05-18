@@ -10,3 +10,4 @@ The data availability is from when COVID-19 was declared as a pandemic i.e. 11 M
 Some data such as the sources, list of employees laid off and date of addition has been omitted here and the complete data can be found on Layoffs.
 
 ## Objectives
+Still Cooking ...... 🍳🍳🍴🍴
